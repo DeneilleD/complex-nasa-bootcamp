@@ -12,7 +12,7 @@ Build an application that allows users to input a date and view NASA's image/fac
 ###  My Simple API Project
 This project highlights my use of HTML, CSS and javaScript;an eye catching, informative application displaying semantically important content to the user.
 
-![snip](photo.PNG)
+![snip](Capture.PNG)
 
 ## How It's Made:
 
