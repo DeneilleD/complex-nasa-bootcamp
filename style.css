@@ -1,0 +1,53 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+body{
+  margin:50px;
+  font-size:20px;
+  background:rgb(22, 0, 94);
+  color:rgb(71, 101, 251);
+  line-height: 20px;
+}
+body section{
+  width:50%;
+  float:left;
+}
+input{
+  color:orangered;
+  background:rgb(250, 204, 118);
+  margin-right:20px;
+  border:1px solid blue;
+  font-weight: bold;
+  border-radius:3px;
+}
+h3{
+  padding:10px;
+  line-height: 30px;
+}
+button{
+  color:orangered;
+  height:40px;
+  border:1px solid blue;
+  border-radius: 3px;
+  background: rgb(244, 201, 122);
+  font-size:16px;
+  font-weight: bold;
+}
+button:hover{
+    background:blue;
+    color:black;
+
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
